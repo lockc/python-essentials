@@ -18,6 +18,8 @@ print(0x10)
 print(0x11)
 print(-0x11)
 
+
+# 'e' or 'E' means times 10 raised to the power of e.g Ye8 means Y multiplied by 10 raised to the power of 8
 print("Exponent")
 print(3E8)
 print(-3e8)
